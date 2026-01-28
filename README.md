@@ -1,3 +1,19 @@
+# Hello 👋, I'm Mai Anh
+
+
+---
+
+## 👨‍💻 About Me
+
+- 📦 I'm a Supply Chain Management student interested in how data supports logistics and operational decisions.
+- 📊 Enjoy finding patterns, trends, and insights from messy data.
+- ✨ Fun fact: I can spend hours cleaning data just to make one chart look right.
+- 📫 Contact: anh.thaingoc.bbs23@eiu.edu.vn
+
+
+⭐ Feel free to explore my repositories and projects!
+
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/callme.MaiAnhkewt/?locale=vi_VN) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/chloe._015/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@chloebaby_015) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:anh.thaingoc.bbs23@eiu.edu.vn) 
